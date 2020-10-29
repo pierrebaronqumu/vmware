@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'metropolislight';
+  src: url('https://www.vmware.com/etc/clientlibs/vmwaredevapp/cclamp/fonts/metropolis-light-webfont.woff2') format('woff2'),
+    url('https://www.vmware.com/etc/clientlibs/vmwaredevapp/cclamp/fonts/metropolis-light-webfont.woff') format('woff'),
+    url('https://www.vmware.com/etc/clientlibs/vmwaredevapp/cclamp/fonts/metropolis-light-webfont.ttf') format('truetype'),
+    url('https://www.vmware.com/etc/clientlibs/vmwaredevapp/cclamp/fonts/metropolis-light-webfont.otf') format('opentype'),
+    url('https://www.vmware.com/etc/clientlibs/vmwaredevapp/cclamp/fonts/metropolis-light-webfont.svg#metropolislight') format('svg');
+  font-weight: normal;
+  font-style: normal
+}
